@@ -1,2 +1,2 @@
 # SehirTanitimUygulamasi
-btk akademi swift egitimi
+btkakademi swift egitimi
